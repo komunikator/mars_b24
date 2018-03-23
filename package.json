@@ -1,0 +1,19 @@
+{
+  "name": "mars_b24",
+  "version": "0.0.1",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=6.11.4 <8.6.0"
+  },
+  "description": "MARS B24 User Agent",
+  "scripts": {
+  },
+  "main": "b24UA.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/komunikator/mars_b24"
+  },
+  "dependencies": {
+    "b24_bot_api": "git+https://github.com/komunikator/b24_bot_api"
+  }
+}
